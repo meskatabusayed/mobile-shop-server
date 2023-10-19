@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/jWww1KM/pexels-kartikey-das-413279.jpg",
+      "Name" : "Apple"
+     },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/S59qynV/samsung-1.jpg",
+      "Name" : " Samsung"
+     },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/PjBwXLk/sony.jpg",
+      "Name" : "Sony"
+     },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/Fxtd0PX/lenovo-green-logo.webp",
+      "Name" : "Lenovo"
+     },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/WWV1p01/hp.jpg",
+      "Name" : "HP"
+     },
+    {
+      "id":6,
+      "image": "https://i.ibb.co/cTgn8G8/Dell-Emblem.jpg",
+      "Name" : "Dell"
+     }
+    
+  ]
